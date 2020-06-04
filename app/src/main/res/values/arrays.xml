@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="heroes">
+        <item>@drawable/earthshaker_full</item>
+        <item>@drawable/antimage_full</item>
+        <item>@drawable/dark_willow_full</item>
+    </array>
+    <array name="items">
+        <item>@drawable/overviewicon_int</item>
+        <item>@drawable/overviewicon_agi</item>
+        <item>@drawable/overviewicon_str</item>
+        <item>@drawable/overviewicon_attack</item>
+        <item>@drawable/overviewicon_speed</item>
+        <item>@drawable/overviewicon_defense</item>
+    </array>
+    <array name="skills">
+        <item>@drawable/earthshaker_fissure_hp1</item>
+        <item>@drawable/earthshaker_enchant_totem_hp1</item>
+        <item>@drawable/earthshaker_aftershock_hp1</item>
+        <item>@drawable/earthshaker_echo_slam_hp1</item>
+        <item>@drawable/antimage_mana_break_hp1</item>
+        <item>@drawable/antimage_blink_hp1</item>
+        <item>@drawable/antimage_counterspell_hp1</item>
+        <item>@drawable/antimage_mana_void_hp1</item>
+        <item>@drawable/dark_willow_bramble_maze_hp1</item>
+        <item>@drawable/dark_willow_shadow_realm_hp1</item>
+        <item>@drawable/dark_willow_cursed_crown_hp1</item>
+        <item>@drawable/dark_willow_bedlam_hp1</item>
+        <item>@drawable/dark_willow_terrorize_hp1</item>
+    </array>
+</resources>
